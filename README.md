@@ -14,15 +14,3 @@ Nuestro E-Commerce se llama GAME OVER y es el proyecto final en el cual hemos tr
 8. Swiper
 9. Bootstrap
 10. Sass
-
-<h1>Equipo:</h1>
-
-1. Karen Arguello
-2. Thiago Chiesa
-3. Bladimir Rojas
-4. Luis Ditieri
-5. Juliana Simonetta
-6. Franco Garay
-7. Lucas Silva
-
-<h1>Enlace al demo:</h1> https://game-over-shop.herokuapp.com/
